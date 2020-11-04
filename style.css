@@ -60,6 +60,13 @@ a {
   background-color: #206ba0;
 }
 
+.icon_link {
+}
+
+.icon_link:hover {
+  color: #6ec3ff;
+}
+
 .list-inline > li {
   display: inline-block;
   padding: 0px 5px;
